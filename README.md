@@ -9,3 +9,13 @@ I guess if anyone wants to augment the dataset by creating a facial realignment 
 Sorry some of the code can only be run on Google Colab.
 Sorry some of the files reference local directories I was running this on my machine and never expected to post this online since I used to be embarrassed by my Tinder bot.
 A file is missing thats the haarcascade file.
+AutoSwipe.py is a script for running inference
+Model.py is my smartest inference tool
+RSRC.py includes the steps I took to originally compile the model in anaconda. 
+TinderBot.py was my attempt at a UI but thats something im not great at yet.
+TinderModel.py was my attempt at a different kind of learning model. It does not work as far as I know. Again all this code was written years ago so it's a little hard to
+remember
+TinderQueen.py uses the mediapipe facial mesh and creates a dataset from that as far as I know.
+TinderScraper.py is for adding data to the original dataset (or a different dataset all together) to rate girls and configure the model for personal tase
+TinderScript.py and TinderTrainer.py are both just alternative ways to construct the model but I forget if they work. Theyre in the folder so they go here.
+
