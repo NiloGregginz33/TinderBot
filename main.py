@@ -38,7 +38,7 @@ project_id = "blabber-ada4c"
 
 os.environ["GOOGLE_APPLICATION_CREDENTIALS"] = 'google.json'
 
-openai.api_key= "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"
+openai.api_key= ""
 
 
 
@@ -369,7 +369,7 @@ def intersection(lst1, lst2):
 
 if __name__ == "__main__":
 
-    X_Auth_Token = "0bfd8564-dd7a-4e66-969d-47e3958c4173"
+    X_Auth_Token = ""
 
     cv2_base_dir = os.path.dirname(os.path.abspath(cv2.__file__))
 
