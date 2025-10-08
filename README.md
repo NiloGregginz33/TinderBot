@@ -19,5 +19,6 @@ TinderQueen.py uses the mediapipe facial mesh and creates a dataset from that as
 TinderScraper.py is for adding data to the original dataset (or a different dataset all together) to rate girls and configure the model for personal tase
 TinderScript.py and TinderTrainer.py are both just alternative ways to construct the model but I forget if they work. Theyre in the folder so they go here.
 https://colab.research.google.com/drive/1cg3DF6-YfxgcQerU2fxbSXexVHXkT7ZQ?usp=sharing
+https://colab.research.google.com/drive/1oynBXn-yHO0EZPeyZIdXHOSF3mYloupT?usp=sharing
 
 
