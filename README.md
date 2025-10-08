@@ -21,4 +21,6 @@ TinderScript.py and TinderTrainer.py are both just alternative ways to construct
 https://colab.research.google.com/drive/1cg3DF6-YfxgcQerU2fxbSXexVHXkT7ZQ?usp=sharing
 https://colab.research.google.com/drive/1oynBXn-yHO0EZPeyZIdXHOSF3mYloupT?usp=sharing
 
+DATA ETHICS: All data is collected via public sources or with explicit authorization and research intent disclosed. Prior work with unverified data sources has been discontinued.
+
 
